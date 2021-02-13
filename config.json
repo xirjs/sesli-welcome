@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Polemikal Voice System",
+        "GUILD_ID": "",
+        "VOICE_CHANNEL": "",
+        "MIN_STAFF_ROLE": ""
+    },
+    "FILES": {
+        "WELCOME": "default_files/<welcome-voice>.mp3",
+        "STAFF": "default_files/<staff-voice>.mp3"
+    },
+    "TOKEN": "BOT_TOKEN"
+}
