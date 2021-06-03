@@ -1,7 +1,7 @@
 {
     "DEFAULTS": {
         "AUTHORS": [],
-        "ACTIVITY_TEXT": "Polemikal Voice System",
+        "ACTIVITY_TEXT": "Developer : Shonx",
         "GUILD_ID": "",
         "VOICE_CHANNEL": "",
         "MIN_STAFF_ROLE": ""
